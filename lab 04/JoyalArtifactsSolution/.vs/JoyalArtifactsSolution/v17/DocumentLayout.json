@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joyal\\OneDrive\\Desktop\\centennial\\SEM 6\\DEVEOPS\\lab 04\\JoyalArtifactsSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F759682-FFAF-4471-8898-95CCBB3C5A23}|Joyal.ConsoleApp\\Joyal.ConsoleApp.csproj|c:\\users\\joyal\\onedrive\\desktop\\centennial\\sem 6\\deveops\\lab 04\\joyalartifactssolution\\joyal.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F759682-FFAF-4471-8898-95CCBB3C5A23}|Joyal.ConsoleApp\\Joyal.ConsoleApp.csproj|solutionrelative:joyal.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F759682-FFAF-4471-8898-95CCBB3C5A23}|Joyal.ConsoleApp\\Joyal.ConsoleApp.csproj|c:\\users\\joyal\\onedrive\\desktop\\centennial\\sem 6\\deveops\\lab 04\\joyalartifactssolution\\joyal.consoleapp\\joyal.consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F759682-FFAF-4471-8898-95CCBB3C5A23}|Joyal.ConsoleApp\\Joyal.ConsoleApp.csproj|solutionrelative:joyal.consoleapp\\joyal.consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94D355D-86A8-46CF-AD97-D95483A6F131}|JoyalArtifactsSolution\\JoyalArtifactsSolution.csproj|c:\\users\\joyal\\onedrive\\desktop\\centennial\\sem 6\\deveops\\lab 04\\joyalartifactssolution\\joyalartifactssolution\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F94D355D-86A8-46CF-AD97-D95483A6F131}|JoyalArtifactsSolution\\JoyalArtifactsSolution.csproj|solutionrelative:joyalartifactssolution\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94D355D-86A8-46CF-AD97-D95483A6F131}|JoyalArtifactsSolution\\JoyalArtifactsSolution.csproj|c:\\users\\joyal\\onedrive\\desktop\\centennial\\sem 6\\deveops\\lab 04\\joyalartifactssolution\\joyalartifactssolution\\joyalartifactssolution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F94D355D-86A8-46CF-AD97-D95483A6F131}|JoyalArtifactsSolution\\JoyalArtifactsSolution.csproj|solutionrelative:joyalartifactssolution\\joyalartifactssolution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joyal\\OneDrive\\Desktop\\centennial\\SEM 6\\DEVEOPS\\lab 04\\JoyalArtifactsSolution\\Joyal.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Joyal.ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\joyal\\OneDrive\\Desktop\\centennial\\SEM 6\\DEVEOPS\\lab 04\\JoyalArtifactsSolution\\Joyal.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "Joyal.ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T00:11:55.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Joyal.ConsoleApp",
+              "DocumentMoniker": "C:\\Users\\joyal\\OneDrive\\Desktop\\centennial\\SEM 6\\DEVEOPS\\lab 04\\JoyalArtifactsSolution\\Joyal.ConsoleApp\\Joyal.ConsoleApp.csproj",
+              "RelativeDocumentMoniker": "Joyal.ConsoleApp\\Joyal.ConsoleApp.csproj",
+              "ToolTip": "C:\\Users\\joyal\\OneDrive\\Desktop\\centennial\\SEM 6\\DEVEOPS\\lab 04\\JoyalArtifactsSolution\\Joyal.ConsoleApp\\Joyal.ConsoleApp.csproj",
+              "RelativeToolTip": "Joyal.ConsoleApp\\Joyal.ConsoleApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-13T00:12:02.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\joyal\\OneDrive\\Desktop\\centennial\\SEM 6\\DEVEOPS\\lab 04\\JoyalArtifactsSolution\\JoyalArtifactsSolution\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "JoyalArtifactsSolution\\StringExtensions.cs",
+              "ToolTip": "C:\\Users\\joyal\\OneDrive\\Desktop\\centennial\\SEM 6\\DEVEOPS\\lab 04\\JoyalArtifactsSolution\\JoyalArtifactsSolution\\StringExtensions.cs",
+              "RelativeToolTip": "JoyalArtifactsSolution\\StringExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T00:00:39.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JoyalArtifactsSolution",
+              "DocumentMoniker": "C:\\Users\\joyal\\OneDrive\\Desktop\\centennial\\SEM 6\\DEVEOPS\\lab 04\\JoyalArtifactsSolution\\JoyalArtifactsSolution\\JoyalArtifactsSolution.csproj",
+              "RelativeDocumentMoniker": "JoyalArtifactsSolution\\JoyalArtifactsSolution.csproj",
+              "ToolTip": "C:\\Users\\joyal\\OneDrive\\Desktop\\centennial\\SEM 6\\DEVEOPS\\lab 04\\JoyalArtifactsSolution\\JoyalArtifactsSolution\\JoyalArtifactsSolution.csproj",
+              "RelativeToolTip": "JoyalArtifactsSolution\\JoyalArtifactsSolution.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-13T00:03:36.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

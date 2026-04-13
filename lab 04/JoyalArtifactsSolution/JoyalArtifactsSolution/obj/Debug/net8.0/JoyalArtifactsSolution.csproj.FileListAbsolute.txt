@@ -1,0 +1,11 @@
+C:\Users\joyal\OneDrive\Desktop\centennial\SEM 6\DEVEOPS\lab 04\JoyalArtifactsSolution\JoyalArtifactsSolution\bin\Debug\net8.0\JoyalArtifactsSolution.deps.json
+C:\Users\joyal\OneDrive\Desktop\centennial\SEM 6\DEVEOPS\lab 04\JoyalArtifactsSolution\JoyalArtifactsSolution\bin\Debug\net8.0\JoyalArtifactsSolution.dll
+C:\Users\joyal\OneDrive\Desktop\centennial\SEM 6\DEVEOPS\lab 04\JoyalArtifactsSolution\JoyalArtifactsSolution\bin\Debug\net8.0\JoyalArtifactsSolution.pdb
+C:\Users\joyal\OneDrive\Desktop\centennial\SEM 6\DEVEOPS\lab 04\JoyalArtifactsSolution\JoyalArtifactsSolution\obj\Debug\net8.0\JoyalArtifactsSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joyal\OneDrive\Desktop\centennial\SEM 6\DEVEOPS\lab 04\JoyalArtifactsSolution\JoyalArtifactsSolution\obj\Debug\net8.0\JoyalArtifactsSolution.AssemblyInfoInputs.cache
+C:\Users\joyal\OneDrive\Desktop\centennial\SEM 6\DEVEOPS\lab 04\JoyalArtifactsSolution\JoyalArtifactsSolution\obj\Debug\net8.0\JoyalArtifactsSolution.AssemblyInfo.cs
+C:\Users\joyal\OneDrive\Desktop\centennial\SEM 6\DEVEOPS\lab 04\JoyalArtifactsSolution\JoyalArtifactsSolution\obj\Debug\net8.0\JoyalArtifactsSolution.csproj.CoreCompileInputs.cache
+C:\Users\joyal\OneDrive\Desktop\centennial\SEM 6\DEVEOPS\lab 04\JoyalArtifactsSolution\JoyalArtifactsSolution\obj\Debug\net8.0\JoyalArtifactsSolution.dll
+C:\Users\joyal\OneDrive\Desktop\centennial\SEM 6\DEVEOPS\lab 04\JoyalArtifactsSolution\JoyalArtifactsSolution\obj\Debug\net8.0\refint\JoyalArtifactsSolution.dll
+C:\Users\joyal\OneDrive\Desktop\centennial\SEM 6\DEVEOPS\lab 04\JoyalArtifactsSolution\JoyalArtifactsSolution\obj\Debug\net8.0\JoyalArtifactsSolution.pdb
+C:\Users\joyal\OneDrive\Desktop\centennial\SEM 6\DEVEOPS\lab 04\JoyalArtifactsSolution\JoyalArtifactsSolution\obj\Debug\net8.0\ref\JoyalArtifactsSolution.dll

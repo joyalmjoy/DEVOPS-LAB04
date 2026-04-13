@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoyalArtifactsSolution", "JoyalArtifactsSolution\JoyalArtifactsSolution.csproj", "{F94D355D-86A8-46CF-AD97-D95483A6F131}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joyal.ConsoleApp", "Joyal.ConsoleApp\Joyal.ConsoleApp.csproj", "{9F759682-FFAF-4471-8898-95CCBB3C5A23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F94D355D-86A8-46CF-AD97-D95483A6F131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F94D355D-86A8-46CF-AD97-D95483A6F131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F94D355D-86A8-46CF-AD97-D95483A6F131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F94D355D-86A8-46CF-AD97-D95483A6F131}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F759682-FFAF-4471-8898-95CCBB3C5A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F759682-FFAF-4471-8898-95CCBB3C5A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F759682-FFAF-4471-8898-95CCBB3C5A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F759682-FFAF-4471-8898-95CCBB3C5A23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0977B610-62D3-48B3-AA59-242E53157087}
+	EndGlobalSection
+EndGlobal
