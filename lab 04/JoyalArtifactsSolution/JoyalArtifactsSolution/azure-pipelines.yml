@@ -47,3 +47,4 @@ steps:
     searchPatternPush: '$(Build.ArtifactStagingDirectory)/*.nupkg'
     nuGetFeedType: 'internal'
     feedPublish: 'joyal-feed'
+    
