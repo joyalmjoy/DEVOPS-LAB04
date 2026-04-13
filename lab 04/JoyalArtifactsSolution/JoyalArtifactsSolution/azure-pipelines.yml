@@ -46,5 +46,5 @@ steps:
     command: 'push'
     searchPatternPush: '$(Build.ArtifactStagingDirectory)/*.nupkg'
     nuGetFeedType: 'internal'
-    feedPublish: 'joyal-feed'
+    publishVstsFeed: 'JoyalArtifactsProject/joyal-feed'
     
